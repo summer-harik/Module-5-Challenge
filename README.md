@@ -1,5 +1,5 @@
 # Module-5-Challenge
 
-## PyCitySchools
+## Pymaceuticals
 + Python script in jupyter notebook that analyzes the performance of treatment regimens.
-  + Uses the pandas library
+  + Uses the pandas, scipy, numpy, and matplotlib libraries
